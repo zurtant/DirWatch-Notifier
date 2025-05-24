@@ -45,6 +45,7 @@ def detect_directory_type(path):
     if doc_count >= 3 or 'docs' in dirs_set:
         return 'documentation'
 
+
     return 'unknown'
 
 def print_directory_type(path):
