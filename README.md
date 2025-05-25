@@ -1,5 +1,6 @@
 # DirWatch-Notifier
 this is a linux program, only work with linux
+ 
  Directory Watcher and Notifier
 
 This Python program monitors specified directories and sends notifications about changes (new, modified, deleted files and folders) to a Flask-based server. It also identifies the directory type (project, media, backup, documentation).
